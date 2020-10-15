@@ -1,0 +1,21 @@
+ h1 {
+            color: cornflowerblue;
+        }
+
+        h2 {
+            color: cadetblue;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+        h3 {
+            color: black;
+        }
+       
+        Body {
+            background-color: aquamarine;
+        }
+
+        #head-title {
+            background-color: blue;
+        }
+        
