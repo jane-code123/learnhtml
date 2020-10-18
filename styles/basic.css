@@ -22,6 +22,9 @@
             position: absolute;
             width: 250px;
             left: 100px;
-            
+        }
+        #headtitle {
+            position: absolute;
+            left: 150px;
         }
         
