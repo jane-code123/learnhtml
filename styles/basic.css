@@ -18,4 +18,10 @@
         #head-title {
             background-color: blue;
         }
+        #greensea {
+            position: absolute;
+            width: 250px;
+            left: 100px;
+            
+        }
         
